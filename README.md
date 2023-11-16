@@ -1,4 +1,4 @@
-# Events Map
+# Event Maps
 
 A Python project to create a scatterplot map and a choropleth map of CrossFit licensed events worldwide (for 2023). Events and locations were taken from the CrossFit website.
 
